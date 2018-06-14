@@ -1,0 +1,5 @@
+[13-Oct-2017 19:23:15 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nlsbanki_nagalas'@'localhost' (using password: YES) in /home/mutengen/insurance.mutengeneresort.com/dbconfig.php on line 8
+[14-Oct-2017 03:58:16 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nlsbanki_nagalas'@'localhost' (using password: YES) in /home/mutengen/insurance.mutengeneresort.com/dbconfig.php on line 8
+[17-Oct-2017 07:49:55 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nlsbanki_nagalas'@'localhost' (using password: YES) in /home/mutengen/insurance.mutengeneresort.com/dbconfig.php on line 8
+[27-Oct-2017 01:25:26 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nlsbanki_nagalas'@'localhost' (using password: YES) in /home/mutengen/insurance.mutengeneresort.com/dbconfig.php on line 8
+[15-Nov-2017 06:10:43 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'nlsbanki_nagalas'@'localhost' (using password: YES) in /home/mutengen/insurance.mutengeneresort.com/dbconfig.php on line 8

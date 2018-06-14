@@ -1,0 +1,127 @@
+[05-Jul-2017 08:08:38 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:08:38 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:08:38 Africa/Nairobi] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/add-new-branch.php on line 7
+[05-Jul-2017 08:09:35 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:09:35 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:57:42 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:57:42 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:57:42 Africa/Nairobi] PHP Warning:  include(../../dbconfig.php): failed to open stream: No such file or directory in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 3
+[05-Jul-2017 08:57:42 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../dbconfig.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 3
+[05-Jul-2017 08:57:42 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 22
+[05-Jul-2017 08:57:55 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:57:55 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 08:57:55 Africa/Nairobi] PHP Warning:  include(../../dbconfig.php): failed to open stream: No such file or directory in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 3
+[05-Jul-2017 08:57:55 Africa/Nairobi] PHP Warning:  include(): Failed opening '../../dbconfig.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 3
+[05-Jul-2017 08:57:55 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mutengen/nagalas.mutengeneresort.com/www.nagalas.com/admin/phpdata/branch/deactivate-branch.php on line 22
+[05-Jul-2017 09:01:28 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 09:01:28 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 09:12:22 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[05-Jul-2017 09:12:22 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:01:21 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:01:21 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:01:48 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:01:48 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:02:24 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 12:02:24 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 14:34:34 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 14:34:34 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 15:11:08 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[06-Jul-2017 15:11:08 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Jul-2017 16:37:34 Africa/Nairobi] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Jul-2017 16:37:34 Africa/Nairobi] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
